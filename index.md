@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Ahmad's Corner"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my world. My thoughts are my own.
